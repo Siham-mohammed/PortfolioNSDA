@@ -1,3 +1,3 @@
-# Portdolio
+# Portfolio
 
-Portfoil using only html
+Portfolio using only html
